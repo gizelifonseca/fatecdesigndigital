@@ -10,7 +10,7 @@ Pasta que contém os arquivos de documentação do projeto, incluindo o Wirefram
 Na raiz desta pasta estão: 
 - Arquivos .html do site;
 - Pasta css, que contém os arquivos CSS do site;
-- Pasta fontes, que contém as fontes externas utilizadas pelo site
+- Pasta fontes, que contém as fontes externas utilizadas pelo site e
 - Pasta fotos, que contém as fotos utilizadas pelo site
 
 [VÍDEO DE APRESENTAÇÃO DO PROTÓTIPO NAVEGÁVEL](https://www.youtube.com/watch?v=uM8Q0oHwCp4)
