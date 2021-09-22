@@ -1,0 +1,102 @@
+header{
+    height: 50px;
+    background-color: #3b5998;
+    padding: 0px;
+}
+
+
+body{
+    font-family: Arial, helvetica, sans-serif;
+    font-size: 14px;
+    margin: 0px;
+}
+
+.menu{
+    list-style:none;
+    font-size: 14pt;
+    display: inline-block;
+}
+
+.logo{
+    display: inline-block;
+    margin: 0%;
+}
+
+.menu li{
+    position:relative;
+    float:left;
+}
+.menu li a{
+    color:#fff;
+    text-decoration:none; 
+    padding: 5px 10px;
+}
+
+.menu li a:hover{
+    background:#fff;
+    color:#3b5998;
+}
+
+.menu li  ul{
+    position:absolute;
+    /* top:25px; */
+    left:0;
+    background-color:#3b5998;
+    /* display:none; */
+}
+
+.div_responsiva{
+    display: inline-block;
+    box-sizing: border-box;
+    width: 45%; 
+    height: 55vh;
+    vertical-align: top;
+    text-align: center;
+}
+
+main{
+    margin: 30px;
+    font-size: 14pt;
+    text-align: justify;
+}
+
+.titulo_pagina{
+    color: #3b5998;
+    font-size: 14pt;
+    font-weight: bold;
+}
+
+.img_responsiva{
+    width: 30%; 
+    display: inline-block;
+    margin: auto;
+    text-align: left;
+}
+
+.img_cinza{
+    filter: grayscale(100%);
+}
+
+.assinatura{
+    font-family: baby-child;
+    font-size: 18pt;
+}
+
+@font-face {
+    font-family: baby-child;
+    src: url('../fontes/baby-child.ttf');
+}
+
+@media (max-width: 500px){
+    .div_responsiva{
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    
+    .img_responsiva{
+        display: block;
+        width: 90%;
+        height: auto;
+    }
+}
