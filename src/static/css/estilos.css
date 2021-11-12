@@ -62,7 +62,6 @@ main{
 
 .titulo_pagina{
     color: #3b5998;
-    font-size: 14pt;
     font-weight: bold;
 }
 
@@ -82,9 +81,13 @@ main{
     font-size: 18pt;
 }
 
+.fundo_divs_projeto{
+    background-color: #ebf0f5;
+}
+
 @font-face {
     font-family: baby-child;
-    src: url('../fontes/baby-child.ttf');
+    src: "static/fontes/baby-child.ttf";
 }
 
 @media (max-width: 500px){
@@ -100,3 +103,5 @@ main{
         height: auto;
     }
 }
+
+
