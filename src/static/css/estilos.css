@@ -11,6 +11,11 @@ body{
     margin: 0px;
 }
 
+img {
+    vertical-align: top;
+    border-style: none;
+}
+
 .menu{
     list-style:none;
     font-size: 14pt;
@@ -78,7 +83,7 @@ main{
 
 .assinatura{
     font-family: baby-child;
-    font-size: 18pt;
+    font-size: 20pt;
 }
 
 .fundo_divs_projeto{
@@ -87,7 +92,7 @@ main{
 
 @font-face {
     font-family: baby-child;
-    src: "static/fontes/baby-child.ttf";
+    src: url("../fontes/baby-child.ttf");  ;
 }
 
 @media (max-width: 500px){
