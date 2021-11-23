@@ -13,5 +13,5 @@ Na raiz desta pasta estão:
 - Pasta fontes, que contém as fontes externas utilizadas pelo site e
 - Pasta fotos, que contém as fotos utilizadas pelo site
 
-[VÍDEO DE APRESENTAÇÃO DO PROTÓTIPO NAVEGÁVEL](https://www.youtube.com/watch?v=uM8Q0oHwCp4)
+[VÍDEO DE APRESENTAÇÃO DO PROTÓTIPO NAVEGÁVEL ENTREGA 2](https://www.youtube.com/watch?v=FzlN9p_lfQU)
 
